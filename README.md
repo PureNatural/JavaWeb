@@ -4,3 +4,4 @@ a small project of store
 bug fix
 graph feature
 style fix
+extension gis
